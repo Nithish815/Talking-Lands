@@ -18,3 +18,8 @@ This project is a Django backend API for storing, updating, and retrieving Poini
     python manage.py migrate
     python manage.py runserver
     ```
+
+The map will display in admin
+Usernmae:nithish
+Password;zxcvbnm,
+
